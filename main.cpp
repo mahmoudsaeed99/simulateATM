@@ -227,7 +227,5 @@ cout<<"maximum minutes of waiting is : "<<max_wait<<endl;
 cout<<"Utilization of First ATM is : "<<uti_1/TIS_1<<endl;
 cout<<"Utilization of Second ATM is : "<<uti_2/TIS_2<<endl;
 cout<<"Utilization of Third ATM is : "<<uti_3/TIS_3<<endl;
-cout<<"Utilization of Third ATM is : "<<uti_3/TIS_3<<endl;
-
     return 0;
 }
